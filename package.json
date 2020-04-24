@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "covid19-api": "^1.2.0",
+    "https-proxy-agent": "^5.0.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "telegraf": "^3.37.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovmike/tlgBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kovmike/tlgBot/issues"
+  },
+  "homepage": "https://github.com/kovmike/tlgBot#readme"
+}
